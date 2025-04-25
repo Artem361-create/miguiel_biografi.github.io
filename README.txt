@@ -1,37 +1,22 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Michael Degtiarev
+	•	Description: Helping brokers, OTC desks, exchanges & payment providers scale with institutional-grade infrastructure, OTC liquidity and white-label tools. Let’s simplify and grow your crypto business together.
+	•	Experience:
+Customer Success
+Finery Markets · Full-timeFinery Markets · Full-time
+Oct 2022 - Present · 2 yrs 7 mosOct 2022 to Present · 2 yrs 7 mos
+Valencia, Valencian Community, Spain · RemoteValencia, Valencian Community, Spain · Remote
+I help brokers, OTC desks, exchanges, and payment providers scale their digital asset operations by delivering institutional-grade infrastructure, OTC liquidity and white-label trading platform from Finery Markets.
 
+With 16 years of experience in sales and marketing, including leadership roles at Deutsche Bank, HSBC, and Allianz, I bring a strong TradFi foundation into the crypto space. Prior to joining Finery Markets, I successfully led the growth of retail broker sales at a major bank in the CIS region.
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
-
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
-
-(* = my other side project -- carrd.co)
-(** = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+My blend of traditional finance expertise and deep understanding of crypto infrastructure makes me a valuable partner for firms looking to launch or expand their digital asset offering.
+	•	Education
+Plekhanov Russian University of Economics
+Master, MarketingMaster, Marketing
+2004 - 2007
+	•	Skills
+Cryptocurrency
+Sale support
+Management
+Marketing
+Retail Banking
